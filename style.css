@@ -114,19 +114,19 @@ margin-top: 1rem;
   .main {
     height: 50vh;
   }
-  .main-heading h1 {
+  .main-headings h1 {
     text-align: center;
     font-weight: 600;
     color: white;
     font-size: medium;
   }
-  .main-heading{
+  .main-headings{
     width: 100%;
     padding: 1em;
     align-items: center;
     justify-content: center;
   }
-  .main-heading p {
+  .main-headings p {
     text-align: center;
     color: white;
     font-weight: 600;
