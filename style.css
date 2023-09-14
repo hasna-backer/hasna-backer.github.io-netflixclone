@@ -118,7 +118,7 @@ margin-top: 1rem;
     text-align: center;
     font-weight: 600;
     color: white;
-    font-size: medium;
+    font-size: 1.8rem;
   }
 /*   .main-headings{
     width: 100%;
@@ -126,11 +126,11 @@ margin-top: 1rem;
     align-items: center;
     justify-content: center;
   } */
-  .main-headings p {
+  .main-headings h4 {
     text-align: center;
     color: white;
-    font-weight: 600;
-    font-size: small;
+    font-weight: 500;
+    font-size: medium;
     margin: 1px;
   }
   /* .main-search {
